@@ -1,0 +1,4 @@
+openpyxl==2.6.0
+pandas==0.24.1
+Pygments==2.0.2
+xlrd==1.2.0
